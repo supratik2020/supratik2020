@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-
-I am **Supratik Sarkar**, a software engineer
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working as a Data engineer
-- 🌱 I’m currently learning Tensorflow and Pytorch 
-- 📫 How to reach me: Email me at supratik2020@gmail.com or 
-  connect with me on LinkedIn: https://www.linkedin.com/in/sarkarsupratik/
-
+I am **Supratik Sarkar** a professional software enginee with experience in Java application and data engineering. 
+I have over a decade experience coding in Java and over three years experience in Python. 
+My hobbies are playing cricket, going on long drives and exploring off beat tourist destinations around the globe. 
+You can connect with me via email: supratik2020@gmail.com.
