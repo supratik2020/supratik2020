@@ -1,12 +1,23 @@
 ### Hi there 👋
 
-I spent most of my career working as event manager and a tutor for teaching programming. I spent around last five years of my university mentoring high school students for Java programming language. I graduated college and worked for a year at a logistics startup that unfortunately shutdown due to pandemic lockdowns.
+Here’s what I specialize in:
+- Full-stack Data Science / Data analysis (mainly financial and marketing analysis)
+- Information / Insights extraction
+- Python Data Platforms Developer
+- Machine Learning / Deep Learning Specialist
+- NLP / Business solutions
+- Crawling / Scraping
+- Data Engineering
+- Dashboard and Data Platform developer
 
-After being laid-off due to closure of the company, I worked at a local cyber-cafe as a technical assistant. I also started working as a freelancer. I mostly bid for projects that are around data science domain. I deliver end to end projects powered by AI. I now have around a decade experience in Python and SQL.
 
-I used automated bidding algorithm created by me to pitch for projects and had bagged over 80 jobs by saving 60% of manual cold calling time.
+I work with python and have an expert domain about almost all PyData Stack and in software development roles using python (Flask - Dash).
+I also have worked in Computer Vision, NLP, and many other Deep Learning projects.
 
-In the meantime I did certifications around data analytics, data Visualization and Machine Learning from 2020-2021. I am always open to explore new countries and cultures. By 2022 I intend to work for a tech giant in Germany or France or the United Kingdom. Yes I do need work permit sponsor.
+I have developed many different projects and data platforms in Python to different industries. I'm a specialist in all PyData Stack and also, managing data teams, building platforms end-to-end and automation of pipelines.
 
-Want to hire me for product manager or program manager or data engineering or data analyst role?
-Contact me at: +917077100461 or email me at: supratik2020@gmail.com
+I work with python and have an expert domain about almost all PyData Stack and in software engineer/development roles using python (Flask - Dash);
+
+I also have worked in Computer Vision, NLP, and many other Deep Learning projects.
+
+Am now open to full time opportunities as a product manager or data engineer. Contact me at +917077100461 and email at: supratik2020@gmail.com
