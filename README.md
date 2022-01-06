@@ -36,24 +36,54 @@ Developer has some experience with Leading couple of Small other developers
 
 Skills
 Front-end
-• Angular ( 1 -7 ) •HTML5 • BootStrap • JavaScript
-• React • CSS • Angular-Material • ES5
-• Redux and variants • SCSS • Grid layout • D3.js
-• ES6 • ES2015 • TypeScript • Firebase
-• Micro Front-end Architecture • Testing Frame works • Vue Js ( normal Knowledge)
-• GraphQL • Apollo
+• Angular ( 1 -7 ) 
+•HTML5 
+• BootStrap 
+• JavaScript
+• React 
+• CSS 
+• Angular-Material 
+• ES5
+• Redux and variants 
+• SCSS • Grid layout 
+• D3.js
+• ES6 
+• ES2015 
+• TypeScript 
+• Firebase
+• Micro Front-end Architecture 
+• Testing Frame works 
+• Vue Js ( normal Knowledge)
+• GraphQL 
+• Apollo
 Back-end
-• Node.js • RESTful APIs
-• Express.js • Socket.io
-• Koa and Hapi ( know how ) •Various NPM based helper modules
-•AWS ( Normal Knowledge ) • Session Implementation
-• JWT implementation • Micro back-end architecture
-• IMAP Protocol • MongoDB
-• PostgreSQL • Mongoose
-• IMAP • Testing frameworks ( Mocha, Chai, Should etc )
+• Node.js 
+• RESTful APIs
+• Express.js 
+• Socket.io
+• Koa and Hapi ( know how ) 
+•Various NPM based helper modules
+•AWS ( Normal Knowledge ) 
+• Session Implementation
+• JWT implementation 
+• Micro back-end architecture
+• IMAP Protocol 
+• MongoDB
+• PostgreSQL 
+• Mongoose
+• IMAP 
+• Testing frameworks ( Mocha, Chai, Should etc )
 Miscellaneous
-• Git version control • Gulp taskrunner • Heriku • WebPack
-• Docker • CI • Docker Compose • Jenkins
-• Linux , Windows • Jira • Agile
+• Git version control 
+• Gulp taskrunner 
+• Heriku 
+• WebPack
+• Docker 
+• CI 
+• Docker Compose 
+• Jenkins
+• Linux , Windows 
+• Jira 
+• Agile
 
 Email: supratik2020@gmail.com 
