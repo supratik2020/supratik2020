@@ -1,13 +1,9 @@
-With an experience as Data Engineer, I work Passionately on projects where i can learn new things every moment and can assist to make projects successful.
+I am a professional Java developer with three years of coding experience. I have worked on many projects in Java. I am an expert in making Java applications using Console, GUI(Java Swing, AWT, and JavaFX) and Web(JSP and Servlets).
 
-Services I offer are:
-✅ Data Analysis.
-✅ Data Extraction
-✅ Data Visualization
-✅ Machine Learning
-✅ Natural Language Processing
-✅ Scripting and Automation with Python
-
-While successful project awards me as successful contractor, I focus on both deadline and quality. I can handle pressure and work with minimum supervision. I love to do communication in details with my clients and give daily updates of work. I am always aware of roles and responsibilities at work.
-
-Looking forward to working with you!
+Projects I have Worked on:
+Notepad (Java Swing)
+Management Systems (Java Swing and JavaFX).
+Scheduler Application (JavaFX).
+Client-Server Applications (Java Swing).
+Multithreaded Applications (Java Swing).
+Encryptors and Networking Applications. (Java Swing and JavaFX)
