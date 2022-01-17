@@ -1,9 +1,17 @@
-I am a professional Java developer with three years of coding experience. I have worked on many projects in Java. I am an expert in making Java applications using Console, GUI(Java Swing, AWT, and JavaFX) and Web(JSP and Servlets).
+Python Programming, Linux Admin, Data Wrangling, Data Cleansing & Data Extraction services utilizing Python 3 or Python 2 Programming on Linux or Windows.
 
-Projects I have Worked on:
-Notepad (Java Swing)
-Management Systems (Java Swing and JavaFX).
-Scheduler Application (JavaFX).
-Client-Server Applications (Java Swing).
-Multithreaded Applications (Java Swing).
-Encryptors and Networking Applications. (Java Swing and JavaFX)
+I slice, dice, extract, transform, sort, calculate, cleanse, collect, organize, migrate and otherwise handle data management for clients.
+
+Services Provided:
+- Python Programming
+- Algorithm Development
+- Data Conversion (Excel to CSV, PDF to Excel, CSV to Excel, Audio)
+- Data Mining
+- Data Extration
+- ETL Data Transformation
+- Data Cleansing
+- OCR (Optical Character Recognition w/ Tesseract)
+- Linux Server Administration
+- Anaconda Python / Conda / Miniconda Administration
+- LXC/LXD Virtualization / Linux Containers
+- Website & Data Migrations
