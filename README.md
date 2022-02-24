@@ -1,14 +1,24 @@
 I am a Full Stack Developer
 
-My Backend skills are:
--Java 
+My Backend skills are:\
+
+-Java
+
 -Spring
+
 -SQL
--Hibernate 
+
+-Hibernate
+
+
 
 My frontend skills are:
 -HTML
+
 -CSS
+
 -JavaScript
--React 
+
+-React
+
 -TypeScript 
