@@ -1,6 +1,6 @@
 I am a Full Stack Developer
 
-My Backend skills are:\
+My Backend skills are:
 
 -Java
 
