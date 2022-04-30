@@ -1,45 +1,14 @@
-I am fully capable of taking charge of your data-driven application using Python, Flask, Apache Spark, Dask, and SQL from scratch to production.
+I'm experience Java Desktop Software Developer, developing apps in Java Swing and FX.
+I can create custom components in Java Swing and build app which will be faster and user friendly. Due to years of coding, my coding skills is very fast, and I have built application using multithreading, interface and abstraction. Can work with open source project easily like Open Bravo and POS systems.
 
-Data Science and Analytics:
-* Python (Files & Note Books)
-* Numpy
-* Pandas
-* Sklearn
-* SQL
-* NoSQL
+Some Areas In which I’m EXPERT:
 
-Machine Learning and Model Prediction
-* Supervised Learning (Classification and Regression)
-* Unsupervised Learning
-* Natural Language Processing (NLP)
-* Deep Learning with Pytorch
-* Recommender System
-
-Big Data Analysis:
-* Apache Spark
-* Dask
-* SQL
-* NoSQL
-
-Data Engineering
-* Data Modeling
-* Cloud Data Warehouse Architecture
-* OLAP Cubes
-* ETL Pipeline
-* Data Lakes with Spark
-* Data Pipelines with Airflow
-* Python
-* Pandas
-* PySpark
-* Data Pipelines
-* Python Flask
-* Dask
-* Dedupe, and Normalization of Data
-
-Full Stack Development
-* RESTful API with Python Flask
-* Data-Driven Web Application
-
-Data Science Analytics, such as Descriptive and Inferential Analysis, Predictive Analytics and Machine Learning will be performed on your project.
-
-Experience in designing components of your project's ETL and Big Data using Python Pandas Dataframe, Dask, and Apache Spark PySpark.
+-- Can work with IMAGES, VIDEOS, FFMPEG, EXIF, OFFLINE and ONLINE MAP.
+-- Can work with Open CV and JAVA CV.
+-- Knowledge of parsing JSON and XML.
+-- Can create app which will work with different Databases, e.g. SQLITE, MYSQL, MS SERVER.
+-- Can create Reports in DOC and PDF, using iText, Apache POI, Jasper Report.
+-- Knowledge of JAVA Mailing API to send and receive bulk emails.
+-- Can use JNI to call Native C code from JAVA.
+-- Have knowledge of GPU and can call GPU code from JAVA.
+-- Can work with large amount of data.
