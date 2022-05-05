@@ -1,14 +1,24 @@
-I'm experience Java Desktop Software Developer, developing apps in Java Swing and FX.
-I can create custom components in Java Swing and build app which will be faster and user friendly. Due to years of coding, my coding skills is very fast, and I have built application using multithreading, interface and abstraction. Can work with open source project easily like Open Bravo and POS systems.
+I’m a user-oriented and data-driven digital product management professional. I'm passionate about agile software development methodologies and especially scrum and kanban.
+I can help with writing User Stories, Software Functional/Business Requirements Specifications, User Guides, user research, growth product management, sprint planning and prioritization, product roadmap and product strategy, manage user stories and demos.
 
-Some Areas In which I’m EXPERT:
+Some areas of expertise:
+* Product management (product discovery, user stories, epics, specs, demos, product tracking, requirements gathering, roadmaps, cross-functional teams etc).
+* Product owner for digital and ecommerce
+* User research
+*Dashboard redesigns and development
+* Product UX
+* Product marketing (SaaS)
+* IT business analysis and product consultant
+* Ecommerce
+* Conversion rate optimization CRO
+* Digital marketing (content strategy and search, UX and marketing)
+* Digital Project Management
+* CMS development projects
 
--- Can work with IMAGES, VIDEOS, FFMPEG, EXIF, OFFLINE and ONLINE MAP.
--- Can work with Open CV and JAVA CV.
--- Knowledge of parsing JSON and XML.
--- Can create app which will work with different Databases, e.g. SQLITE, MYSQL, MS SERVER.
--- Can create Reports in DOC and PDF, using iText, Apache POI, Jasper Report.
--- Knowledge of JAVA Mailing API to send and receive bulk emails.
--- Can use JNI to call Native C code from JAVA.
--- Have knowledge of GPU and can call GPU code from JAVA.
--- Can work with large amount of data.
+Core specialties:
+*Product management
+*Customer Feedback
+*Product roadmaps
+*PRDs
+*UX audits
+*Conversion Rate Optimization
